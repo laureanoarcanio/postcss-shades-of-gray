@@ -1,7 +1,7 @@
 {
   "name": "postcss-shades-of-gray",
-  "version": "0.0.0",
-  "description": "PostCSS plugin This plugin replaces any grayscale color to the closes in a provided set of grays.",
+  "version": "0.0.1",
+  "description": "PostCSS Plugin to replace grayscale color to the closest one in a provided set of grays. It helps making the CSS more consistent to design guidelines.",
   "keywords": [
     "postcss",
     "css",
