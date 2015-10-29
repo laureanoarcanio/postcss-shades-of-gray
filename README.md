@@ -1,6 +1,6 @@
 # PostCSS Shades Of Gray [![Build Status][ci-img]][ci]
 
-[PostCSS] plugin This plugin replaces any grayscale color to the closes in a provided set of grays..
+[PostCSS] plugin This plugin replaces any grayscale color to the closes in a provided set of grays.
 
 [PostCSS]: https://github.com/postcss/postcss
 [ci-img]:  https://travis-ci.org/laureanoarcanio/postcss-shades-of-gray.svg
@@ -8,13 +8,13 @@
 
 ```css
 .foo {
-    /* Input example */
+    color: #ACACAC;
 }
 ```
 
 ```css
 .foo {
-  /* Output example */
+  color: #BBBBBB;
 }
 ```
 
