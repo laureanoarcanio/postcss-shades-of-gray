@@ -1,0 +1,33 @@
+{
+  "name": "postcss-shades-of-gray",
+  "version": "0.0.0",
+  "description": "PostCSS plugin This plugin replaces any grayscale color to the closes in a provided set of grays.",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "closest color",
+    "grayscale",
+    "unify color"
+  ],
+  "author": "laureano <larcanio@gmail.com>",
+  "license": "MIT",
+  "repository": "laureanoarcanio/postcss-shades-of-gray",
+  "bugs": {
+    "url": "https://github.com/laureanoarcanio/postcss-shades-of-gray/issues"
+  },
+  "homepage": "https://github.com/laureanoarcanio/postcss-shades-of-gray",
+  "dependencies": {
+    "color-convert": "^0.6.0",
+    "postcss": "^5.0.2"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^1.0.0",
+    "gulp-mocha": "^2.1.3"
+  },
+  "scripts": {
+    "test": "gulp"
+  }
+}
