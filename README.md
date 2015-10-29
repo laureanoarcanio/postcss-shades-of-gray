@@ -18,6 +18,12 @@
 }
 ```
 
+## Installation
+
+```console
+$ npm install postcss-shades-of-gray
+```
+
 ## Usage
 
 ```js
