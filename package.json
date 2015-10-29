@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/laureanoarcanio/postcss-shades-of-gray",
   "dependencies": {
-    "color-convert": "^0.6.0",
     "postcss": "^5.0.2"
   },
   "devDependencies": {

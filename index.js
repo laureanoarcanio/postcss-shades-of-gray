@@ -1,5 +1,4 @@
 var postcss   = require('postcss');
-var converter = require("color-convert")();
 
 module.exports = postcss.plugin('postcss-shades-of-gray', function (opts) {
   opts = opts || {};
